@@ -1,0 +1,6 @@
+Dataset/
+*.task
+*.h5
+*.mp4
+venv/
+robotics_env/
